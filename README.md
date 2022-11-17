@@ -1,4 +1,4 @@
-# Assignment
+# Exercises
 
 ## Tech Stacks
 - Python
