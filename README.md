@@ -9,7 +9,7 @@
 ## Getting Started
 - Basic Requirements: pip, git, and python>=3.9 working on your machine
 - Clone this repo
-  - `git clone `
+  - `git clone `https://github.com/Aravindy1010/Exercises.git
   - `cd assignment
 - Create and activate a virtual environment
   - `python3 -m venv <venv_name>`
@@ -30,8 +30,6 @@
 
 ## Data Modeling
 - Please find the data modeling for both weather and corn yield below:
-  - https://github.com/Meerasrini13/assignment/blob/main/src/weather/models.py
-  - https://github.com/Meerasrini13/assignment/blob/main/src/corn/models.py
 
 
 ## Ingestion
