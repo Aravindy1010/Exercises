@@ -30,6 +30,7 @@
 
 ## Data Modeling
 - Please find the data modeling for both weather and corn yield below:
+https://github.com/Aravindy1010/Exercises/blob/main/src/weather/models.py
 
 
 ## Ingestion
