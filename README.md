@@ -31,7 +31,7 @@
 ## Data Modeling
 - Please find the data modeling for both weather and corn yield below:
 https://github.com/Aravindy1010/Exercises/blob/main/src/weather/models.py
-
+https://github.com/Aravindy1010/Exercises/blob/main/src/corn/models.py
 
 ## Ingestion
 - Execute the following command to ingest weather data
