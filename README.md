@@ -51,7 +51,7 @@ https://github.com/Aravindy1010/Exercises/blob/main/src/corn/models.py
 - Start your local server
   - `python3 manage.py runserver`
 - Paste the following url in your browser
-  - `http://127.0.0.1:8000/admin/`
+  - http://127.0.0.1:8000/admin/login/?next=/admin/
 - Login with the superuser creds you just created
 - Here you will have full CRUD abilities for all models
 
