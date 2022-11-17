@@ -9,7 +9,7 @@
 ## Getting Started
 - Basic Requirements: pip, git, and python>=3.9 working on your machine
 - Clone this repo
-  - `git clone https://github.com/Meerasrini13/assignment.git`
+  - `git clone `
   - `cd assignment
 - Create and activate a virtual environment
   - `python3 -m venv <venv_name>`
